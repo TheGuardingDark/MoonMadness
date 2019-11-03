@@ -2,7 +2,7 @@
 
 ## Amber, Madison, and Liv
 
-### Tech Used: Skeleton, Google Map API, Dark Sky API, US Muncipal API, CSS, Javascript 
+### Tech Used: Skeleton, Google Map API, Dark Sky API, US Muncipal API, CSS, Javascript, AJAX
 
 #### Moonlight Madness
 
