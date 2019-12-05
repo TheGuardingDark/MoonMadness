@@ -9,7 +9,7 @@
 App Functionality
 =================
 
-### Deployed Link: https://theguardingdark.github.io/ProjectOne-MoonMadness/
+### Deployed Link: https://theguardingdark.github.io/MoonMadness/
 
 The page opens with a placeholder crime scene image. A Moonlight Madness Jumbotron announces the app title. On the left hand side there is a user menu with a drop down city selector and a query limiter. On the right hand side are images of four moon phases.
 
